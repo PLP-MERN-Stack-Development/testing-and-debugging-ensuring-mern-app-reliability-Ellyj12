@@ -102,4 +102,4 @@ All executable examples below assume you are inside the `server` directory unles
 
 
 
-Happy testing! Bring any failing test, log excerpt, or debugging trace into your reflection to earn full credit.
+<img width="745" height="394" alt="image" src="https://github.com/user-attachments/assets/4d2c8098-f9d9-4c0a-a92f-fdc7d1ee7142" />
