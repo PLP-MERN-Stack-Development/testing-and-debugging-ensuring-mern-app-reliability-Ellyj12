@@ -1,7 +1,4 @@
 # Testing and Debugging MERN Application
-
-This repository contains the Week 6 reliability assignment for the PLP MERN Stack programme. The Express back end exposes authentication, catalogue, swap, category, and dashboard APIs while the accompanying test suites demonstrate how to protect a MERN codebase with layered automated testing and pragmatic debugging aids.
-
 ## Prerequisites
 
 - Node.js 18+
